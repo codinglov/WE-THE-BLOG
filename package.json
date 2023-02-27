@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "cli": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "express-session": "^1.17.3",
+    "json": "^11.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.1.2",
+    "node": "^19.6.1",
+    "package": "^1.0.1",
+    "sequelize": "^6.29.0"
+  },
+  "name": "we-the-blog",
+  "description": "tech blog space",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Can you see me?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinglov/WE-THE-BLOG.git"
+  },
+  "keywords": [
+    "Blogging",
+    "Tech",
+    "technology",
+    "web",
+    "building"
+  ],
+  "author": "Laura Makokha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codinglov/WE-THE-BLOG/issues"
+  },
+  "homepage": "https://github.com/codinglov/WE-THE-BLOG#readme"
+}
